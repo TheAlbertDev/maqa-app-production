@@ -4,15 +4,19 @@
   "short_name": "MAQA App",
   "name": "MAQA App",
   "developer": {
-  "name": "Albert Álvarez-Carulla",
-  "url": "https://thealbert.dev"
+    "name": "Albert Álvarez-Carulla",
+    "url": "https://thealbert.dev"
   },
   "icons": [
     {
-      "src": "/assets/images/logo-maqa.svg",
-      "type": "image/svg+xml",
-      "sizes": "48x48 72x72 96x96 128x128 256x256",
-      "purpose": "any"
+      "src": "/assets/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "background_color": "#121212",
