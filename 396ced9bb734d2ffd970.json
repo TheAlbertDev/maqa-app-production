@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "short_name": "MAQA App",
   "name": "MAQA App",
+  "start_url": "/",
   "developer": {
     "name": "Albert Álvarez-Carulla",
     "url": "https://thealbert.dev"
