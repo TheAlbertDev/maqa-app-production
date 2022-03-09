@@ -3,26 +3,26 @@
   "version": "0.2.0",
   "short_name": "MAQA App",
   "name": "MAQA App",
-  "start_url": "/",
+  "start_url": "./",
   "developer": {
     "name": "Albert Álvarez-Carulla",
     "url": "https://thealbert.dev"
   },
   "icons": [
     {
-      "src": "/assets/images/android-chrome-192x192.png",
+      "src": "./assets/images/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/assets/images/android-chrome-512x512.png",
+      "src": "./assets/images/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "background_color": "#121212",
   "display": "standalone",
-  "scope": "/",
+  "scope": ".",
   "theme_color": "#90CAF9",
   "description": "Autonomous Water Quality Monitoring"
 }
